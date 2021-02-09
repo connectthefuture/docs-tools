@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "clean-css": "^3.4.26",
+    "clean-css": "^4.1.11",
     "csslint": "^0.10.0",
     "eslint": "^3.19.0",
     "rigning": "^3.0.1"
