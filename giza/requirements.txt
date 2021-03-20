@@ -11,7 +11,7 @@ future==0.16.0
 github3.py==0.9.5
 hieroglyph==0.7.1
 imagesize==0.7.1
-Jinja2==2.9.5
+Jinja2==2.11.3
 jira==1.0.9
 MarkupSafe==0.23
 oauthlib==2.0.1
